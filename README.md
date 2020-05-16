@@ -2,7 +2,8 @@
 > My journey to the C world!
 
 ### Materials:
-  * [The C Programming Language - 2E](http://www2.cs.uregina.ca/~hilder/cs833/Other%20Reference%20Materials/The%20C%20Programming%20Language.pdf)
+  * [The C Programming Language - 2E](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
+  * [Modern C](https://modernc.gforge.inria.fr/)
 
 ### References:
   * [C Crash Course - CS241](http://cs241.cs.illinois.edu/coursebook/Introc)
