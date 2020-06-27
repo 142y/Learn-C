@@ -11,5 +11,5 @@
 ### References:
   * [C Crash Course - CS241](http://cs241.cs.illinois.edu/coursebook/Introc)
   * [Systems Programming by Angrave](https://github.com/angrave/SystemProgramming/wiki)
-  * [Systems Programming & C](https://cs-education.github.io/sys/#/lessons) - Video Series
+  * [Systems Programming & C](https://cs-education.github.io/sys/#/lessons) - Video series
   * [Learn C in Y minutes](https://learnxinyminutes.com/docs/c/)
