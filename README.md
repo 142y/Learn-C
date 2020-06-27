@@ -6,7 +6,7 @@
   * [Modern C](https://modernc.gforge.inria.fr/)
 
 ### Video References:
- * [Jacob Sorber on YouTube](https://www.youtube.com/c/JacobSorber/)
+ * [Jacob Sorber on YouTube](https://www.youtube.com/c/JacobSorber/) - My favourite
 
 ### References:
   * [C Crash Course - CS241](http://cs241.cs.illinois.edu/coursebook/Introc)
